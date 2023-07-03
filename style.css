@@ -1,0 +1,25 @@
+*{
+    background-color: pink;
+}
+
+
+.botao{
+    background-color: yellow;
+}
+
+
+.amarelo{
+    display: flex ;
+    text-align: center;
+    justify-content: center;
+    max-width: 504px;
+    max-height: 503px;
+    direction: initial;    
+    padding-left: 40rem;
+    padding-right: 45rem;
+}
+
+.azul{
+    background-color: yellow;
+
+}
